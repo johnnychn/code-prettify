@@ -5,7 +5,6 @@
  * Copyright (C) 2017 Google Inc.
  * Licensed under Apache 2.0 license.
  */
-
 module.exports = function (grunt) {
   'use strict';
 
